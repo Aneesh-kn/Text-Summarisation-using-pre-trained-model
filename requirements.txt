@@ -1,0 +1,5 @@
+Flask
+transformers
+torch
+wtforms
+flask_wtf
